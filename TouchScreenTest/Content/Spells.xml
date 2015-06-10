@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpellList>
+	<SpellSet>
+    <SpellBoard>0</SpellBoard>
+    <SpellLevel>1</SpellLevel>
+    <Spells>
+      <Spell>
+        <Map>1,2 2,3 3,4 4,1</Map>
+        <Name>Block</Name>
+        <Description>Simple creates a small block to defend against some attack</Description>
+      </Spell>
+      <Spell>
+        <Map>1,2</Map>
+        <Name>Ball</Name>
+        <Description>Summons a small ball to send towards an opponent</Description>
+      </Spell>
+    </Spells>
+	</SpellSet>
+<SpellSet>
+    <SpellBoard>0</SpellBoard>
+    <SpellLevel>2</SpellLevel>
+    <Spells>
+      <Spell>
+        <Map>1,2 2,3 3,4 4,1</Map>
+        <Name>Block lvl 2</Name>
+        <Description>Simple creates a block to defend against some attack</Description>
+      </Spell>
+      <Spell>
+        <Map>1,2</Map>
+        <Name>Ball lvl 2</Name>
+        <Description>Summons a mid size ball to send towards an opponent</Description>
+      </Spell>
+    </Spells>
+	</SpellSet>
+</SpellList>

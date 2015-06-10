@@ -1,0 +1,10 @@
+﻿
+TODO List
+-Check comparision for the counters and the mapped values
+-build board for each side of the sreen and not just one side
+-use some kind of XML Serialization to configure all types of data on the screen
+-Create digital assets to blend in with the current assets that were previously built
+
+-Add menu screens
+-Add additional systems for interaction and configuring the board
+-Some kind of gfx for particals, hits, counters, ...etc
