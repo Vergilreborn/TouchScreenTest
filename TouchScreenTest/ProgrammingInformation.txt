@@ -1,4 +1,11 @@
 ﻿
+Gameplay:
+-Get a spell board on low level
+-Cast enough spells or do enough damage to level up spell board
+-Cast new spells by connecting spell tokens in a certain order
+-Spells themselves level up with new gfx and attack patterns.
+-Add some kind of configuration to new spells (Maybe dynamicize it)
+
 TODO List
 -Check comparision for the counters and the mapped values
 -build board for each side of the sreen and not just one side

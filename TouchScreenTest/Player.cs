@@ -47,7 +47,7 @@ namespace TouchScreenTest
             {
                 spriteBatch.Draw(circle,
                         new Vector2(touch.Position.X - radius, touch.Position.Y - radius), Color.Gold);
-                spriteBatch.DrawString(spriteFont, "Player " + playerId, new Vector2(touch.Position.X - radius, touch.Position.Y + radius), Color.Aquamarine);
+                spriteBatch.DrawString(spriteFont, "Player " + playerId + new Vector2(touch.Position.X - radius, touch.Position.Y + radius).ToString(), new Vector2(touch.Position.X - radius, touch.Position.Y + radius), Color.Aquamarine);
             }
         }
     }

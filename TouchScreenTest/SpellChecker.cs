@@ -8,9 +8,10 @@ namespace TouchScreenTest
     class SpellChecker
     {
 
-        public static String GetSpellBuild(List<SpellCounter> allCounters, String[] spellToCheck) 
+        public static String GetSpellBuild(List<SpellCounter> allCounters)//, String[] spellToCheck) 
         {
-
+            //Temp
+            String[] spellToCheck = {"1,2","2,3","3,4" };
        
             List<String> mappedValues = new List<String>();
             for (int i = 0; i < allCounters.Count; i++)
